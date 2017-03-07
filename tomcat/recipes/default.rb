@@ -1,8 +1,4 @@
-#
-# Cookbook Name:: tomcat
-# Recipe:: default
-#
-# Copyright (c) 2017 The Authors, All Rights Reserved.
+
 
 package 'java-1.7.0-openjdk-devel'
 group 'chef' do
